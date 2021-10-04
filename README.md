@@ -4,7 +4,7 @@ Welcome, This is a python ebay price searcher using **selenium!**
 
 ## Installation
 
-To use this program simply download [geckodriver](https://github.com/mozilla/geckodriver) and add it to the [path](./addToPath.md)!
+To use this program simply download [geckodriver](https://github.com/mozilla/geckodriver) and add it to the [path](https://github.com/MyUsernamee/EbaySearcher/wiki/Add-geckodriver-to-the-path)!
 
 Then type a search result then high or low!
 
