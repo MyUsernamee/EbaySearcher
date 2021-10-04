@@ -1,6 +1,6 @@
 # Ebay Price Searcher!
 
-Welcome, This is a python ebay price searcher using **selenium!**
+Welcome, This is a python ebay price searcher using **selenium**!
 
 ## Installation
 
